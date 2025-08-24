@@ -1,4 +1,6 @@
 ** Mini task: Print student details from an object ** 
+
+
 ```js
 // Define a student object
 const student = {
@@ -16,3 +18,4 @@ const student = {
 
 // Call the function
 student.printDetails();
+```
