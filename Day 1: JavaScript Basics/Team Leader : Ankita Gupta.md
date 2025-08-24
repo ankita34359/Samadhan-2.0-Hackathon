@@ -1,4 +1,4 @@
-** Mini task: Print student details from an object ** 
+## Mini task: Print student details from an object 
 
 
 ```javascript
