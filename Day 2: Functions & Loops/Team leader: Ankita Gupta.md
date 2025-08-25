@@ -1,4 +1,4 @@
-// Function to find highest marks
+### Function to find highest marks
 
 ```javascript
 
