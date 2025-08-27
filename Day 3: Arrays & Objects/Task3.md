@@ -26,6 +26,15 @@ function studentMarksCalculator(name, marks) {
   console.log("Highest    :", highest);
 }
 
-```
+
 // Example usage
 studentMarksCalculator("Ankita Gupta", [85, 92, 78, 96, 88]);
+
+Student Marks Calculator
+Name       : Ankita Gupta
+Marks      : 85, 92, 78, 96, 88
+Total      : 439
+Average    : 87.80
+Highest    : 96
+
+```
