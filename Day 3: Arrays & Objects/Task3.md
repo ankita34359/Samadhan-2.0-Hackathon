@@ -1,6 +1,6 @@
 ### Mini task: Simple Student Marks Calculator
 
-```javascript
+```javascript.  
 
 // Function: Student Marks Calculator
 function studentMarksCalculator(name, marks) {
