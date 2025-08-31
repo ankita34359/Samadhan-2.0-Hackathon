@@ -1,5 +1,3 @@
-```javascript
-
 import ProfileCard from "./ProfileCard";
 
 function App() {
@@ -23,4 +21,4 @@ function App() {
 
 export default App;
 
-```
+
