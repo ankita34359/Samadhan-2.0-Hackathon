@@ -46,7 +46,5 @@ export default function TodoApp() {
       </ul>
     </div>
   );
-
-```
 }
-
+```
