@@ -39,10 +39,9 @@ It combines **bilingual text & voice support (Hindi + English)**, **smart resour
 
 | Name            | Role                         | GitHub Link |
 |-----------------|------------------------------|-------------|
-| **Param Malviya** | Team Leader – Frontend & Backend Developer | [Param’s GitHub](YOUR_GITHUB_LINK) |
-| **Ankita Gupta**  | AI/ML Engineer | [Ankita’s GitHub](https://github.com/ankita34359) |
-| **[Friend 1 Name]** | AI/ML Engineer | [Friend 1 GitHub](FRIEND1_REPO_LINK) |
-| **[Friend 2 Name]** | AI/ML Engineer | [Friend 2 GitHub](FRIEND2_REPO_LINK) |
+| **Ankita Gupta** | Team Leader – Frontend & Backend Developer | [Ankita’s GitHub](https://github.com/ankita34359/Samadhan-2.0-Hackathon) |
+| **Param Malviya**  | AI/ML Engineer | [Param’s GitHub](https://github.com/ParamMalviya/Samadhan-2.0-Hackathon) |
+| **Amit K Thakur** | AI/ML Engineer | [Amit K Thakur GitHub](https://github.com/amitthakur456/Samadhan-2.0) |
 
 ---
 
