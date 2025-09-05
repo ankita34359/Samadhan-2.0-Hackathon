@@ -21,14 +21,6 @@ It combines **bilingual text & voice support (Hindi + English)**, **smart resour
 
 ---
 
-## 📂 Repository Structure  
-- `Day-1/` → Daily task submission (Day 1)  
-- `Day-2/` → Daily task submission (Day 2)  
-- `Day-3/` → …  
-- *(and so on, task-wise folders)*  
-
----
-
 ## 📑 Presentation & Demo  
 - 📊 **PPT:** [Click here to view](https://github.com/ankita34359/Samadhan-2.0-Hackathon/blob/main/Sam%20PPT.pdf)  
 - 🎥 **Demo Video:** [Watch here](YOUR_VIDEO_LINK)  
